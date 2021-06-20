@@ -1,5 +1,5 @@
 {
-    "name": "pravaler/monolog-gcloud-decorator",
+    "name": "rafanoronha/monolog-gcloud-decorator",
     "description": "Decorates monolog json formatter towards gcloud compatibility",
     "keywords": [
         "monolog", "logging", "gcloud", "google"
